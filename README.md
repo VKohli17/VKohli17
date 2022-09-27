@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vansh!
-- 👀 I’m interested in Natural Language Processing, Machine Learning, Web/App development and Computational Social Sciences.
+- 👀 I’m interested in NLP, ML/DL, Computational Social Sciences and Web/App Development.
 - 🌱 I’m currently studying Computer Science (B.Tech) and Computational Linguistics (MS By Research) at IIITH.
-- 💞️ I’m looking to collaborate on discussing Harry Potter fan theories. 
+- 💞️ I’m looking to collaborate on discussing Harry Potter fan theories.
 - 📫 You can talk to me at vanshpreet.k@research.iiit.ac.in
