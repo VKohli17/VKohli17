@@ -2,4 +2,4 @@
 - 👀 I’m interested in NLP, ML/DL, Computational Social Sciences and Web/App Development.
 - 🌱 I’m currently studying Computer Science (B.Tech) and Computational Linguistics (MS By Research) at IIITH.
 - 💞️ I’m looking to collaborate on discussing Harry Potter fan theories.
-- 📫 You can talk to me at vanshpreet.k@research.iiit.ac.in
+- 📫 You can mail my lost Hogwarts acceptance letter to vanshpreet.k@research.iiit.ac.in
